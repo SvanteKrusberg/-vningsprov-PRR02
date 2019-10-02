@@ -1,0 +1,7 @@
+C:\Users\Svante\source\repos\Du ska va president\Du ska va president\bin\Debug\Du ska va president.exe.config
+C:\Users\Svante\source\repos\Du ska va president\Du ska va president\bin\Debug\Du ska va president.exe
+C:\Users\Svante\source\repos\Du ska va president\Du ska va president\bin\Debug\Du ska va president.pdb
+C:\Users\Svante\source\repos\Du ska va president\Du ska va president\obj\Debug\Du ska va president.csprojAssemblyReference.cache
+C:\Users\Svante\source\repos\Du ska va president\Du ska va president\obj\Debug\Du ska va president.csproj.CoreCompileInputs.cache
+C:\Users\Svante\source\repos\Du ska va president\Du ska va president\obj\Debug\Du ska va president.exe
+C:\Users\Svante\source\repos\Du ska va president\Du ska va president\obj\Debug\Du ska va president.pdb
